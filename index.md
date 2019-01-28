@@ -30,7 +30,7 @@ _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### __Robucup Soccer Robot Team__ `2017.6 - 2018.10`
-_Research Assistant_<br>
+_team leador_<br>
 Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
 ### __Robucup Soccer Robot Team,__ `2016.10 - 2017.6`
@@ -39,11 +39,9 @@ Learn some knowledge about miscro-controller and take part in relative competiti
 
 
 ## Skill
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `DIckinson, 2014 - 2016` <br>
+__Linux,vim,gcc,ssh__ 
+ __Electronic Board Design,Altium designer__ 
+ __simulate,Matlab,Mathmatic__ >
 
 
 ## Honors & Awards
