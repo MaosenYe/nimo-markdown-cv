@@ -25,13 +25,15 @@ Wuhan,Hubei
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics. The system, comprised of two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __Technische Universität Berlin,Winter University__  `2019.1 - 2019.2`
+_Intro to AI_<br>
+Study the application of Intelligent Agent 
 
 ### __Robucup Soccer Robot Team__ `2017.6 - 2018.10`
 _team leador_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+__Robocup China Open 2018,humanoid__ (score:5/8). 
+__FIRA China Open 2018__ (Champion on Basketball shooting,Lifting).
+Responsible for circuit design and the configuration of Micro-PC
 
 ### __Robucup Soccer Robot Team,__ `2016.10 - 2017.6`
 _team member_<br>
