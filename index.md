@@ -39,9 +39,9 @@ Learn some knowledge about miscro-controller and take part in relative competiti
 
 
 ## Skill
-__Linux,vim,gcc,ssh__ 
- __Electronic Board Design,Altium designer__ 
- __simulate,Matlab,Mathmatic__ >
+__Linux,vim,gcc,ssh__ <br>
+ __Electronic Board Design,Altium designer__ <br>
+ __simulate,Matlab,Mathmatic__ <br>
 
 
 ## Honors & Awards
