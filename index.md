@@ -27,17 +27,17 @@ Wuhan,Hubei
 
 ### __Technische Universität Berlin,Winter University__  `2019.1 - 2019.2`
 _Intro to AI_<br>
-Study the application of Intelligent Agent 
+Study the application of Intelligent Agent <br>
 
 ### __Robucup Soccer Robot Team__ `2017.6 - 2018.10`
 _team leador_<br>
-__Robocup China Open 2018,humanoid__ (score:5/8). 
-__FIRA China Open 2018__ (Champion on Basketball shooting,Lifting).
-Responsible for circuit design and the configuration of Micro-PC
+__Robocup China Open 2018,humanoid__ (score:5/8). <br>
+__FIRA China Open 2018__ (Champion on Basketball shooting,Lifting).<br>
+Responsible for circuit design and the configuration of Micro-PC<br>
 
 ### __Robucup Soccer Robot Team,__ `2016.10 - 2017.6`
 _team member_<br>
-Learn some knowledge about miscro-controller and take part in relative competitions in school.
+Learn some knowledge about miscro-controller and take part in relative competitions in school.<br>
 
 
 ## Skill
