@@ -3,7 +3,7 @@ layout: cv
 title: MaosenYe's CV
 pdf: true
 ---
-# Maosen __Ye__
+# __叶茂森__
 
 <div id="webaddress">
 <i class="fi-telephone" style="margin-left:1em"></i>
@@ -12,45 +12,48 @@ pdf: true
 <a href="yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
 </div>
 
-## Education
+## 教育背景
 
-### __Huazhong University of Science and Technology__ `2016.9 - Present`
+### __华中科技大学__ `2016.9 - 至今`
 ```
-Wuhan,Hubei
+湖北,武汉
 ```
-- B.S. in Mechanical Engineering
-- Major GPA: 90.15
-- rank:10/279
+- 机械设计制造及其自动化
+- 加权: 90.15
+- 排名:14/293
+- 托福92(R28 L27 S14 W23) GRE326
 
 
-## Experience
+## 个人经历
 
-### __Technische Universität Berlin,Winter University__  `2019.1 - 2019.2`
+### __柏林工业大学冬季课程__  `2019.1 - 2019.2`
 _Intro to AI_<br>
-Study the application of Intelligent Agent <br>
+简单了解了人工智能的有关算法以及开源软件(weka)的使用 <br>
+### __六足仿生机器人__ `2018.4 - 2019.4`
+_负责人_<br>
+绘制了电路板,以及传感器和OpenCV在Debian上的配置.<br>
 
-### __Robucup Soccer Robot Team__ `2017.6 - 2018.10`
-_team leador_<br>
-__Robocup China Open 2018,humanoid__ (score:5/8). <br>
-__FIRA China Open 2018__ (Champion on Basketball shooting,Lifting).<br>
-Responsible for circuit design and the configuration of Micro-PC<br>
+### __机械创新基地足球机器人项目组__ `2017.6 - 2018.10`
+_队长_<br>
+__Robocup中国公开赛,类人组__ (5/8). <br>
+__FIRA中国公开赛__ (投篮和举重冠军).<br>代码__git__管理,电路部分设计和实现,__Linux__系统配置<br>
 
-### __Robucup Soccer Robot Team,__ `2016.10 - 2017.6`
-_team member_<br>
-Learn some knowledge about miscro-controller and take part in relative competitions in school.<br>
-
-
-## Skill
-__Linux,vim,gcc,ssh__ <br>
- __Electronic Board Design,Altium designer__ <br>
- __simulate,Matlab,Mathmatic__ <br>
+### __机械创新基地足球机器人项目组__ `2016.10 - 2017.6`
+_预备成员_<br>
+组队参与一些校内比赛,运用了,尝试下github开源项目(__grbl__,__Python Flask__,etc)<br>
 
 
-## Honors & Awards
+## 掌握技能
+__Linux__系统及常用工具__vim,gcc,shell__ <br>
+ 单片机__(STM32,树莓派)__编程及电路板的绘制__(AD)__ <br>
+ __Matlab__ <br>
 
-Model Student of Outstanding Capacity  `HUST, 2018` <br>
-The First Prize Scholarship `HUST, 2018`<br>
-National Encouragement Scholarship `HUST, 2017` <br>
+
+## 荣誉暨奖项
+
+科创优秀奖学金  `HUST, 2018` <br>
+学习优秀奖学金 `HUST, 2018`<br>
+国家励志奖学金 `HUST, 2017` <br>
 
 <!-- ### Footer
 
