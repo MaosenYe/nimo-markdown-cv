@@ -6,9 +6,9 @@ title: Maosen Ye
 # Maosen **Ye**
 <div id="webaddress">
 <i class="fi-web" style="margin-left:1em"></i>
-<a href="www.yemaosen.com" style="margin-left:0.5em">http://www.yemaosen.com/</a>
+<a href="http://www.yemaosen.com/" style="margin-left:0.5em">www.yemaosen.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
+<a href="http:/yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
 </div>
 
 ## Education
