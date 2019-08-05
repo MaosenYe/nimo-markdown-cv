@@ -1,24 +1,15 @@
 ---
 layout: cv
 title: Maosen Ye
-email: 
-    url: yemaosen123@gmail.com
-    text: yemaosen123@gmail.com
-homepage:
-  url: http://www.yemaosen.com
-  text: yemaosen.com
 ---
 
 # Maosen **Ye**
-
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-        - phone
-        - email
--->
-
+<div id="webaddress">
+<i class="fi-web" style="margin-left:1em"></i>
+<a href="www.yemaosen.com" style="margin-left:0.5em">www.yemaosen.com</a>
+<i class="fi-mail" style="margin-left:1em"></i>
+<a href="yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
+</div>
 
 ## Education
 
@@ -68,10 +59,10 @@ Wrote  some basic algorithm for  optimal design and calculative method<br>
 ## Honors & Awards
 
 Model Student of Outstanding Capacity `HUST, 2018` <br>
-Robocup China Open 2018` 2018` <br>
-rank:the fifth team of eight team on humanoid league 
+Robocup China Open ` 2018` <br>
+rank:the fifth team of eight team on humanoid league <br>
 FIRA China Open ` 2018` <br>
-Champion on Basketball shooting,Lifting
+Champion on Basketball shooting,Lifting<br>
 The First Prize Scholarship  `HUST, 2018`<br>
 National Encouragement Scholarship  `HUST, 2017` <br>
 
