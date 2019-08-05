@@ -1,60 +1,83 @@
 ---
 layout: cv
-title: MaosenYe's CV
-pdf: true
+title: Maosen Ye
+email: 
+    url: yemaosen123@gmail.com
+    text: yemaosen123@gmail.com
+homepage:
+  url: http://www.yemaosen.com
+  text: yemaosen.com
 ---
-# __叶茂森__
 
-<div id="webaddress">
-<i class="fi-telephone" style="margin-left:1em"></i>
-<a href="+86 17371277270" style="margin-left:0.5em">+86 17371277270</a>
-<i class="fi-mail" style="margin-left:1em"></i>
-<a href="yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
-</div>
+# Maosen **Ye**
 
-## 教育背景
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+        - phone
+        - email
+-->
 
-### __华中科技大学__ `2016.9 - 至今`
+{% include cv-contact.html %}
+
+## Education
+
+### **Huazhong University of Science and Technology(HUST)** `2016.9 -`
+
 ```
-湖北,武汉
+Wuhan,Hubei
 ```
-- 机械设计制造及其自动化
-- 加权: 90.15
-- 排名:14/293
-- 托福92(R28 L27 S14 W23) GRE326
+
+- B.S. in Mechanical Design Manufacture and Automation
+- Major GPA: 89.78/100
+- rank: 24/307
+
+## Experience
+
+### **Shenzhen Institutes of Advanced Technology of the Chinese Academy of Science, Research Experiences for Undergraduate** `2019.7- `
+```
+Shenzhen,Guangdong
+```
+_Intern student_<br>
+Advised by [Tiexiang Wen](http://english.siat.cas.cn/SI2017/IBHE2017/RC2/CIB_20537/Researchers1/201707/t20170729_181518.html), I infer and calculate the formula of ultrasound probe and Needle Guide Calibration for Robotic Ultrasound Scanning and Needle Targeting.
+
+### **Technische Universitat Berlin,Winter University** `2019.1 - 2019.2`
+```
+Berlin,German
+```
+_Exchange student_<br>
+Choose the course-Introduction to Artificial Intelligence. Know some of the fundamental methods and algorithms of AI, and an appreciation of how they can be applied to interesting practical problems.
+
+### **HUST,Soccer(humanoid) Robot Team ** `2016.10 - 2018.9`
+
+_team manager_<br> `2017.10 - 2018.9`
+Design a printed circuit board that provides the constant voltage for other components and measure the angle of the robot. And manager the team's programming environment(Ubuntu) and the control of code version(Git).
+_member_<br> `2016.10 - 2017.9`
+Learn the program on some Microcomputer(Raspberry, STM32).Migrate some GitHub projects on Microcomputer and read some datasheets of chips.
+
+## Skills
+
+**Linux,Shell**
+Build my personal blog and own privacy network server(so I can use Google)<br>
+manager the team's programming environment(Ubuntu)<br>
+**Board Design,C language,Microcomputer**
+Design circuit board on Altium designer and use C to program on Microcomputer <br>
+**MATLAB,Mathematica**
+Wrote  some basic algorithm for  optimal design and calculative method<br>
+
+## Honors & Awards
+
+Model Student of Outstanding Capacity `HUST, 2018` <br>
+Robocup China Open 2018` 2018` <br>
+rank:the fifth team of eight team on humanoid league 
+FIRA China Open ` 2018` <br>
+Champion on Basketball shooting,Lifting
+The First Prize Scholarship  `HUST, 2018`<br>
+National Encouragement Scholarship  `HUST, 2017` <br>
 
 
-## 个人经历
-
-### __柏林工业大学冬季课程__  `2019.1 - 2019.2`
-_Intro to AI_<br>
-简单了解了人工智能的有关算法以及开源软件(weka)的使用 <br>
-### __六足仿生机器人__ `2018.4 - 2019.4`
-_负责人_<br>
-绘制了电路板,以及传感器和OpenCV在Debian上的配置.<br>
-
-### __机械创新基地足球机器人项目组__ `2017.6 - 2018.10`
-_队长_<br>
-__Robocup中国公开赛,类人组__ (5/8). <br>
-__FIRA中国公开赛__ (投篮和举重冠军).<br>代码 __git__ 管理,电路部分设计和实现,__Linux__ 系统配置<br>
-
-### __机械创新基地足球机器人项目组__ `2016.10 - 2017.6`
-_预备成员_<br>
-组队参与一些校内比赛,运用了,尝试下github开源项目(_grbl_,_Python Flask_,etc)<br>
-
-
-## 掌握技能
-__Linux__ 系统及常用工具 __vim,gcc,shell__ <br>
- 单片机 __(STM32,树莓派)__ 编程及电路板的绘制 __(AD)__ <br>
- _Matlab_ <br>
-
-
-## 荣誉暨奖项
-
-科创优秀奖学金  `HUST, 2018` <br>
-学习优秀奖学金 `HUST, 2018`<br>
-国家励志奖学金 `HUST, 2017` <br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: 7 2019 -->
