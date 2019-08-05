@@ -39,22 +39,24 @@ Berlin,German
 _Exchange student_<br>
 Choose the course-Introduction to Artificial Intelligence. Know some of the fundamental methods and algorithms of AI, and an appreciation of how they can be applied to interesting practical problems.
 
-### **HUST,Soccer(humanoid) Robot Team ** `2016.10 - 2018.9`
-
-_team manager_<br> `2017.10 - 2018.9`
-Design a printed circuit board that provides the constant voltage for other components and measure the angle of the robot. And manager the team's programming environment(Ubuntu) and the control of code version(Git).
+### **HUST,Soccer(humanoid) Robot Team** `2016.10 - 2018.9`
+```
+2017.10 - 2018.9
+```
+_team manager_<br> 
+Design a printed circuit board that provides the constant voltage for other components and measure the angle of the robot. And manager the team's programming environment(Ubuntu) and the control of code version(Git).<br>
 _member_<br> `2016.10 - 2017.9`
 Learn the program on some Microcomputer(Raspberry, STM32).Migrate some GitHub projects on Microcomputer and read some datasheets of chips.
 
 ## Skills
 
-**Linux,Shell**
+**Linux,Shell**<br>
 Build my personal blog and own privacy network server(so I can use Google)<br>
-manager the team's programming environment(Ubuntu)<br>
-**Board Design,C language,Microcomputer**
+Manage the team's programming environment(Ubuntu)<br>
+**Board Design,C language,Microcomputer**<br>
 Design circuit board on Altium designer and use C to program on Microcomputer <br>
-**MATLAB,Mathematica**
-Wrote  some basic algorithm for  optimal design and calculative method<br>
+**MATLAB,Mathematica**<br>
+Write  some basic algorithm for  optimal design and calculative method<br>
 
 ## Honors & Awards
 
