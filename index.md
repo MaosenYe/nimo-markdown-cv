@@ -19,7 +19,6 @@ Supported arguments:
         - email
 -->
 
-{% include cv-contact.html %}
 
 ## Education
 
