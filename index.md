@@ -53,10 +53,8 @@ Write  some basic algorithm for  optimal design and calculative method<br>
 ## Honors & Awards
 
 Model Student of Outstanding Capacity `HUST, 2018` <br>
-Robocup China Open `2018` <br>
-rank:the fifth team of eight team on humanoid league <br>
-FIRA China Open `2018` <br>
-Champion on Basketball shooting,Lifting<br>
+Robocup China Open,third prize(5/8) on humanoid league `2018` <br>
+FIRA China Open,Champion on Basketball shooting,Lifting `2018` <br>
 The First Prize Scholarship  `HUST, 2018`<br>
 National Encouragement Scholarship  `HUST, 2017` <br>
 
