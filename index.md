@@ -8,7 +8,7 @@ title: Maosen Ye
 <i class="fi-web" style="margin-left:1em"></i>
 <a href="http://www.yemaosen.com/" style="margin-left:0.5em">www.yemaosen.com</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="http:/yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
+<a href="mailto:yemaosen123@gmail.com" style="margin-left:0.5em">yemaosen123@gmail.com</a>
 </div>
 
 ## Education
