@@ -22,7 +22,8 @@ Wuhan,Hubei
 - B.S. in Mechanical Design Manufacture and Automation
 - Major GPA: 89.78/100
 - rank: 24/307
-
+- Tofel: 90(reading:28 listening:27 speaking:14 writing:21)
+- GRE:Verbal:149 Quantity:170
 ## Experience
 
 ### **Shenzhen Institutes of Advanced Technology of the Chinese Academy of Science, Research Experiences for Undergraduate** `2019.7- `
